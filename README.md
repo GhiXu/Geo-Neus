@@ -33,7 +33,7 @@ If you find our work useful in your research, please consider citing:
 ```
 @article{Fu2022GeoNeus,  
   title={Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction}, 
-  author={Fu, Qiancheng and Xu, Qingshan and Yew-Soon Ong and Tao, Wenbing}, 
+  author={Fu, Qiancheng and Xu, Qingshan and Ong, Yew-Soon and Tao, Wenbing}, 
   journal={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2022}
 }
