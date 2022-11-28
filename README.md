@@ -29,6 +29,10 @@ python exp_runner.py --mode train --conf ./confs/womask.conf --case <case_name>
 ```
 python exp_runner.py --mode validate_mesh --conf ./confs/womask.conf --case <case_name> --is_continue
 ```
+* Evaluation
+```
+python eval.py --conf ./confs/womask.conf --case <case_name>
+```
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
