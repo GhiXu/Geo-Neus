@@ -9,7 +9,7 @@ This is the official repo for the implementation of [Geo-Neus: Geometry-Consiste
 We will release the pretrained models soon!
 
 ## Setup
-* Installation  
+#### Installation  
 This code is built with pytorch 1.11.0 and pytorch3d 0.6.2. In addition, other packages listed in requirements.txt are required.  
 You can create an anaconda environment called `geoneus` with the required dependencies by running:
 ```  
@@ -21,7 +21,7 @@ conda install -c bottler nvidiacub
 conda install pytorch3d -c pytorch3d  
 pip install -r requirements.txt  
 ```  
-* Data  
+#### Data  
 Download the DTU data from [Google Drive](https://drive.google.com/drive/folders/1p7Vq6VAm1g_qCJcHLeXeGXc0qEkO4Rme?usp=sharing), which provides the files on sparse points and image pairs. 
 ## Running 
 * Training  
