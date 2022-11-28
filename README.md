@@ -5,7 +5,8 @@
 ![Example 2](media/scan63.gif)
 ![Example 1](media/scan110.gif)
 
-This is the official repo for the implementation of [Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction](https://arxiv.org/abs/2205.15848), Qiancheng Fu*, Qingshan Xu*, Yew-Soon Ong, Wenbing Tao (* Equal Contribution), NeurIPS 2022.
+This is the official repo for the implementation of [Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction](https://arxiv.org/abs/2205.15848), Qiancheng Fu*, Qingshan Xu*, Yew-Soon Ong, Wenbing Tao (* Equal Contribution), NeurIPS 2022.  
+We will release the files on sparse points, image pairs and pretrained models soon!
 
 ## Setup  
 This code is built with pytorch 1.11.0 and pytorch3d 0.6.2. In addition, other packages listed in requirements.txt are required.  
