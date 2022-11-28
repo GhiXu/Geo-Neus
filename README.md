@@ -8,7 +8,7 @@
 This is the official repo for the implementation of [Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction](https://arxiv.org/abs/2205.15848), Qiancheng Fu*, Qingshan Xu*, Yew-Soon Ong, Wenbing Tao (* Equal Contribution), NeurIPS 2022.
 
 ## Setup  
-This code is built with pytorch 1.11.0 and pytorch3d 0.6.2. In addition, other packages in requirements.txt are required.  
+This code is built with pytorch 1.11.0 and pytorch3d 0.6.2. In addition, other packages listed in requirements.txt are required.  
 You can create an anaconda environment called geoneus with the required dependencies by running:
 ```  
 conda create -n geoneus python=3.7  
@@ -39,4 +39,4 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 ## Acknowlegement
-Our code is partially based on [NeuS](https://github.com/Totoro97/NeuS) project and code snippets are borrowed from [NeuralWarp](https://github.com/fdarmon/NeuralWarp). Thanks for these great projects.
+Our code is partially based on [NeuS](https://github.com/Totoro97/NeuS) project and some code snippets are borrowed from [NeuralWarp](https://github.com/fdarmon/NeuralWarp). Thanks for these great projects.
