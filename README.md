@@ -10,7 +10,7 @@ We will release the files on sparse points, image pairs and pretrained models so
 
 ## Setup  
 This code is built with pytorch 1.11.0 and pytorch3d 0.6.2. In addition, other packages listed in requirements.txt are required.  
-You can create an anaconda environment called geoneus with the required dependencies by running:
+You can create an anaconda environment called `geoneus` with the required dependencies by running:
 ```  
 conda create -n geoneus python=3.7  
 conda activate geoneus  
